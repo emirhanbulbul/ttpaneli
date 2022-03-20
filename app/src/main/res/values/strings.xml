@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TT Paneli</string>
+    <string name="siteURL">https://tiktokpaneli.com</string>
+
+    <string name="actionBar">false</string>
+
+    <!-- ADMOB -->
+    <string name="admobBanner">false</string>
+    <string name="admobid">ca-app-pub-6256669589112472~7733273332</string>
+    <string name="banner">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- ONE SIGNAL -->
+    <string name="oneSignalAppId"></string>
+
+
+    <!-- DEEP LİNK -->
+    <string name="deepLinkW">www.tiktokpaneli.com</string>
+    <string name="deepLink">tiktokpaneli.com</string>
+
+    <!-- BOTTOM BAR MENU -->
+    <string name="bottomBarMenu">true</string>
+    <string name="menu1">https://www.emirhanbulbul.com</string>
+    <string name="menu2"></string>
+    <string name="menu3"></string>
+    <string name="menu4"></string>
+    <string name="menu5"></string>
+
+    <string name="image_chooser">Dosya Seçici</string>
+
+
+</resources>

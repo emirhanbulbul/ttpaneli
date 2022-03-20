@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="50dp"
+    android:layout_gravity="center"
+    tools:context=".PayActivity">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Premium Hesap Özellikleri:"
+    android:textFontWeight="700"
+    android:textColor="#000000"
+    android:layout_marginBottom="30dp"
+    android:textSize="25dp"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:layout_marginBottom="40dp"
+        android:text=" 1. Siparişlerde Öncelik\n
+2. Destek Talebinde Öncelik\n
+3. Ek Bonuslar\n
+4. Reklamsız Kullanım"></TextView>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Satın Al 44,99Tl"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="#FF5722"
+        android:textColor="#ffffff"
+        android:padding="10dp"></Button>
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435803066746",
+    "project_id": "onaytr-6d827",
+    "storage_bucket": "onaytr-6d827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435803066746:android:32b35128b70fc3bc54c6c3",
+        "android_client_info": {
+          "package_name": "com.tiktok.paneli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435803066746-9smbb2nfaif9e04g1r1l48cmhg72qt7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPD2BR69D8DaTJHmmn6DakzcxGWT887rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435803066746-9smbb2nfaif9e04g1r1l48cmhg72qt7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
